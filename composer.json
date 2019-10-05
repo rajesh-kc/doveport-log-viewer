@@ -20,5 +20,5 @@
             "Doveport\\Extra\\LogViewer\\": "src/"
         },
         "files": ["helpers.php"]
-    },
+    }
 }
