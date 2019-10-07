@@ -1,7 +1,6 @@
 {
     "name": "rajesh-kc/doveport-log-viewer",
     "description": "Log Viewer",
-    "type": "composer-plugin",
     "authors": [
         {
             "name": "Rajesh Kumar Chukka",
